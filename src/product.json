@@ -1,0 +1,802 @@
+[
+    {
+      "name": "ACC Cement",
+      "description": "Durable cement perfect for high-performance concrete and masonry work.",
+      "price": 540,
+      "category": "Building Materials",
+      "brand": "ACC",
+      "img": "https://encrypted-tbn0.gstatic.com/imgs?q=tbn:ANd9GcRGmtxLDr8MxH2sD7ixcrt5OtjCqSNAsIZbNQ&s"
+    },
+    {
+      "name": "Ambuja Cement",
+      "description": "Eco-friendly cement known for superior strength and long-lasting structures.",
+      "price": 520,
+      "category": "Building Materials",
+      "brand": "Ambuja",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlYtQhmLhOFrAts0f3rFWGQOOc1AHHYixmQw&s"
+    },
+    {
+      "name": "UltraTech Cement",
+      "description": "High-strength cement designed for RCC and high-rise structures.",
+      "price": 600,
+      "category": "Building Materials",
+      "brand": "UltraTech",
+      "img": "https://5.imimg.com/data5/SELLER/Default/2023/9/347911197/PD/WK/CC/21295057/ultratech-cement-500x500.jpg"
+    },
+    {
+      "name": "Bharati Cement",
+      "description": "Cement with consistent quality, ideal for general construction and masonry.",
+      "price": 400,
+      "category": "Building Materials",
+      "brand": "Bharati",
+      "img": "https://5.imimg.com/data5/SELLER/Default/2022/1/EK/WY/XG/37065796/bharathi-cement-500x500.jpg"
+    },
+    {
+      "name": "Birla Cement",
+      "description": "Premium quality cement perfect for all types of construction work.",
+      "price": 580,
+      "category": "Building Materials",
+      "brand": "Birla",
+      "img": "https://5.imimg.com/data5/WV/EP/MY-17026570/mp-birla-cement-samrat.jpg"
+    },
+    {
+      "name": "Double Bull Cement",
+      "description": "Reliable cement offering superior workability and strength for construction projects.",
+      "price": 460,
+      "category": "Building Materials",
+      "brand": "Double Bull",
+      "img": "https://5.imimg.com/data5/SELLER/Default/2021/4/JN/DX/UI/81057003/tmt-steel-bars-250x250.png"
+    },
+    {
+      "name": "Kashmir Cement",
+      "description": "Affordable yet strong cement, ideal for residential and commercial structures.",
+      "price": 350,
+      "category": "Building Materials",
+      "brand": "Kashmir",
+      "img": "https://encrypted-tbn0.gstatic.com/imgs?q=tbn:ANd9GcSnXskngDG8xH_dCJ51uY9D8jWqhpYWuMEJZA&s"
+    },
+    {
+      "name": "Dalmia Cement",
+      "description": "High-performance cement, offering excellent durability and strength.",
+      "price": 610,
+      "category": "Building Materials",
+      "brand": "Dalmia",
+      "img": "https://5.imimg.com/data5/UV/PU/XW/SELLER-68311677/dalmia-cement.jpg"
+    },
+    {
+      "name": "Deccan Cement",
+      "description": "Well-rounded cement suitable for general-purpose construction.",
+      "price": 390,
+      "category": "Building Materials",
+      "brand": "Deccan",
+      "img": "https://5.imimg.com/data5/SELLER/Default/2022/9/QW/SI/MN/150856149/deccan-ppc-cement.jpg"
+    },
+    {
+      "name": "JSW Cement",
+      "description": "High-quality cement with excellent workability and strength retention.",
+      "price": 530,
+      "category": "Building Materials",
+      "brand": "JSW",
+      "img": "https://cementshop.in/wp-content/uploads/2021/06/jsw-cement-2.jpg"
+    },
+    {
+      "name": "Priya Cement",
+      "description": "Cost-effective cement ideal for both small and large construction projects.",
+      "price": 320,
+      "category": "Building Materials",
+      "brand": "Priya",
+      "img": "https://5.imimg.com/data5/HU/KT/MY-23006611/priya-ppc-cement-500x500.jpg"
+    },
+    {
+      "name": "Shree Cement",
+      "description": "Cement that provides long-lasting durability and is perfect for RCC structures.",
+      "price": 620,
+      "category": "Building Materials",
+      "brand": "Shree",
+      "img": "https://5.imimg.com/data5/ZN/BC/SQ/SELLER-94011173/shree-cement-500x500.jpg"
+    },
+    {
+      "name": "Sagar Cement",
+      "description": "Affordable and reliable cement suitable for all types of construction projects.",
+      "price": 450,
+      "category": "Building Materials",
+      "brand": "Sagar",
+      "img": "https://encrypted-tbn0.gstatic.com/imgs?q=tbn:ANd9GcQ4le9aHq-qKaT9haDHtg9a4CUbUizv1hSJhw&s"
+    },
+    {
+      "name": "South India Cement",
+      "description": "Strong and durable cement ideal for residential and commercial construction.",
+      "price": 370,
+      "category": "Building Materials",
+      "brand": "South India",
+      "img": "https://5.imimg.com/data5/SELLER/Default/2021/6/OO/NT/BS/99092306/south-india-opc-cement.png"
+    },
+    {
+      "name": "Bhavya Cement",
+      "description": "High-quality cement that ensures robust and durable structures.",
+      "price": 490,
+      "category": "Building Materials",
+      "brand": "Bhavya",
+      "img": "https://5.imimg.com/data5/QG/MQ/MY-15998331/bhavya-gold-cement.jpg"
+    },
+    {
+    "name": "Red Clay Brick",
+    "description": "Traditional red clay bricks commonly used in Indian construction. Known for strength and durability, suitable for building load-bearing and non-load-bearing walls.",
+    "price": 5,
+    "category": "Bricks and Blocks",
+    "brand": "Shree Builders",
+    "img": "https://5.imimg.com/data5/SELLER/Default/2023/7/325170127/WP/CV/VE/28646942/jbc-bricks-rate-10-rs-par-pis.jpeg"
+  },
+  {
+    "name": "Fly Ash Brick",
+    "description": "Eco-friendly fly ash bricks made from fly ash, cement, and sand. These bricks provide better thermal insulation and are a sustainable alternative to traditional clay bricks.",
+    "price": 6,
+    "category": "Bricks and Blocks",
+    "brand": "EcoBlocks India",
+    "img": "https://encrypted-tbn0.gstatic.com/imgs?q=tbn:ANd9GcREgiBxtmZ9GOr3EGaEhbrpJN5M3AMKlTpzY97gxHrfslGABbPl4ofuiA499I_eWH5iyN0&usqp=CAU"
+  },
+  {
+    "name": "Concrete Hollow Block",
+    "description": "High-strength hollow concrete blocks for constructing walls and foundations. Provides soundproofing and thermal insulation, often used in high-rise buildings.",
+    "price": 35,
+    "category": "Bricks and Blocks",
+    "brand": "CementMaster",
+    "img": "https://encrypted-tbn0.gstatic.com/imgs?q=tbn:ANd9GcTb1l5e_KUzrBCP90yVK7-SG8Hwpu1V60iaPg&s"
+  },
+  {
+    "name": "AAC Block (Autoclaved Aerated Concrete)",
+    "description": "Lightweight AAC blocks with superior heat and sound insulation properties. Ideal for constructing both residential and commercial buildings.",
+    "price": 75,
+    "category": "Bricks and Blocks",
+    "brand": "UltraBlocks",
+    "img": "https://encrypted-tbn0.gstatic.com/imgs?q=tbn:ANd9GcQcDvAlkYHYvkBIyi_kv--BP9XbzepeJNpaQA&s"
+  },
+  {
+    "name": "Solid Concrete Block",
+    "description": "Solid concrete blocks with excellent load-bearing capacity. Commonly used for the construction of industrial and commercial buildings.",
+    "price": 45,
+    "category": "Bricks and Blocks",
+    "brand": "BuildStrong",
+    "img": "https://5.imimg.com/data5/SELLER/Default/2023/4/298893593/AX/KC/VF/3842566/solid-cement-concrete-block.jpg"
+  },
+  {
+    "name": "Copper Wire",
+    "description": "High-conductivity copper wire used for electrical wiring in homes and industrial setups. Available in various gauges for different current capacities.",
+    "price": 500,
+    "category": "Electrical Materials",
+    "brand": "PowerFlex",
+    "img": "https://encrypted-tbn0.gstatic.com/imgs?q=tbn:ANd9GcTie3Uc8jcHPrK-gt3uH55hFlCM4AHyvZfMBg&s"
+  },
+  {
+    "name": "PVC Insulated Cable",
+    "description": "Durable PVC insulated cables designed for household wiring, offering protection against fire, moisture, and wear.",
+    "price": 150,
+    "category": "Electrical Materials",
+    "brand": "SafeCable",
+    "img": "https://encrypted-tbn0.gstatic.com/imgs?q=tbn:ANd9GcQ-i29QHfkGmR7bqjZGyUn6B-G6HleTrDKuZg&s"
+  },
+  {
+    "name": "Switch Socket Outlet",
+    "description": "Standard 6A switch socket outlet for residential and commercial electrical connections. Designed with safety shutters to prevent accidental electric shock.",
+    "price": 120,
+    "category": "Electrical Materials",
+    "brand": "Anchor",
+    "img": "https://tiimg.tistatic.com/fp/1/007/622/electrical-switch-socket-with-3-pin-easy-to-uses-high-quality-880.jpg"
+  },
+  {
+    "name": "Circuit Breaker (MCB)",
+    "description": "Miniature Circuit Breaker (MCB) used for automatic circuit disconnection in case of overload or short circuit. Essential for safety in homes and offices.",
+    "price": 300,
+    "category": "Electrical Materials",
+    "brand": "Havells",
+    "img": "https://encrypted-tbn0.gstatic.com/imgs?q=tbn:ANd9GcTbPMpoMJGf0CJuwQeoyZWk5i6ooMkzl2DvVw&s"
+  },
+  {
+    "name": "LED Bulb (12W)",
+    "description": "Energy-efficient 12W LED bulb providing bright light while saving electricity. Suitable for both indoor and outdoor use.",
+    "price": 100,
+    "category": "Electrical Materials",
+    "brand": "Philips",
+    "img": "https://encrypted-tbn0.gstatic.com/imgs?q=tbn:ANd9GcRM05aRbVCJXbJcumEcwP-eX1WAYJxX1nSD2w&s"
+  },
+  {
+    "name": "Electrical Conduit Pipe",
+    "description": "PVC electrical conduit pipes used for routing and protecting electrical wiring in walls and ceilings. Flame retardant and impact resistant.",
+    "price": 50,
+    "category": "Electrical Materials",
+    "brand": "Polycab",
+    "img": "https://encrypted-tbn0.gstatic.com/imgs?q=tbn:ANd9GcTJdV1BXjuaDhWD3IV6SZZEt88rm6PD1k23Jw&s"
+  },
+  {
+    "name": "Distribution Board",
+    "description": "A robust electrical distribution board for housing circuit breakers, RCDs, and other electrical components. Essential for safe power distribution in buildings.",
+    "price": 1500,
+    "category": "Electrical Materials",
+    "brand": "Legrand",
+    "img": "https://encrypted-tbn0.gstatic.com/imgs?q=tbn:ANd9GcRTMcj3cld3kI6SJIwE56kKTXK4bXjn8dxsDcVKuMZFmRPUvGRkHHYGjhPWlqUCyOGE3MM&usqp=CAU"
+  },
+  {
+    "name": "Electrical Tape",
+    "description": "Insulating electrical tape for bundling and protecting electrical wires. Flame resistant and available in multiple colors for easy identification.",
+    "price": 20,
+    "category": "Electrical Materials",
+    "brand": "3M",
+    "img": "data:img/jpeg;base64,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"
+  },
+  {
+    "name": "Ceiling Fan",
+    "description": "Energy-efficient ceiling fan with a 1200mm sweep. Provides superior air circulation with minimal noise.",
+    "price": 1500,
+    "category": "Electrical Materials",
+    "brand": "Bajaj",
+    "img": "https://images-cdn.ubuy.co.in/633a87dc0864c572d6621212-bojue-52-penggemar-langit-langit.jpg"
+  },
+  {
+    "name": "Earthing Rod",
+    "description": "Copper-coated earthing rod used for grounding electrical systems and providing safety from electrical faults.",
+    "price": 600,
+    "category": "Electrical Materials",
+    "brand": "JMV",
+    "img": "https://encrypted-tbn0.gstatic.com/imgs?q=tbn:ANd9GcQfLYLgXsWVYIV4w7f_yUZscMW9hgv8myzkyg&s"
+  },
+  {
+    "name": "Granite Stone",
+    "description": "High-quality polished granite stone used for flooring, countertops, and wall cladding. Known for its durability and resistance to wear and tear.",
+    "price": 250,
+    "category": "Natural Stone",
+    "brand": "StoneCraft India",
+    "img": "https://encrypted-tbn0.gstatic.com/imgs?q=tbn:ANd9GcRvkhGXYajAWCZH44qhgQEfsG3tC0B6tpf9lQ&s"
+  },
+  {
+    "name": "Marble Stone",
+    "description": "Premium grade white marble stone, ideal for flooring, tabletops, and decorative pieces. Offers a smooth and elegant finish.",
+    "price": 500,
+    "category": "Natural Stone",
+    "brand": "Royal Marbles",
+    "img": "https://encrypted-tbn0.gstatic.com/imgs?q=tbn:ANd9GcSOb6kV9rLtLwhOfkXfwZjMQ4r-TXeUuWEhdQ&s"
+  },
+  {
+    "name": "Sandstone",
+    "description": "Durable sandstone with a natural, earthy appearance. Used for patios, driveways, and outdoor cladding. Offers a slip-resistant surface.",
+    "price": 150,
+    "category": "Natural Stone",
+    "brand": "Heritage Stones",
+    "img": "https://encrypted-tbn0.gstatic.com/imgs?q=tbn:ANd9GcRfivHpLmDC8v2cNBg7oXfvsAHkOmMyfthd2w&s"
+  },
+  {
+    "name": "Slate Stone",
+    "description": "Natural slate stone with a textured finish, perfect for roofing, flooring, and wall applications. Known for its resistance to weathering.",
+    "price": 200,
+    "category": "Natural Stone",
+    "brand": "Slate World",
+    "img": "https://encrypted-tbn0.gstatic.com/imgs?q=tbn:ANd9GcSvYXfk_Zar78VGybj4_9ug7DlEYkB3GcpR9YwQoP7CYHZDYOSY24OzM9C6davT05l8_A8&usqp=CAU"
+  },
+  {
+    "name": "Limestone",
+    "description": "Smooth limestone stone, ideal for flooring, wall cladding, and decorative stonework. Offers a soft color palette and is easy to cut and shape.",
+    "price": 180,
+    "category": "Natural Stone",
+    "brand": "StoneEdge",
+    "img": "https://zenstone.in/wp-content/uploads/2024/03/20230312_171603-e1723452857325.jpg"
+  },
+  {
+    "name": "Travertine Stone",
+    "description": "A classic natural stone used for flooring and walls. Known for its porous surface and subtle color variations, ideal for both interior and exterior applications.",
+    "price": 350,
+    "category": "Natural Stone",
+    "brand": "Travertino India",
+    "img": "https://www.dedalostone.com/wp-content/uploads/2021/07/beige-travertine-800x800.jpg"
+  },
+  {
+    "name": "Quartzite",
+    "description": "Extremely hard natural stone, perfect for countertops, stairs, and outdoor paving. It has a beautiful crystal-like appearance and high durability.",
+    "price": 400,
+    "category": "Natural Stone",
+    "brand": "CrystalStone",
+    "img": "https://encrypted-tbn0.gstatic.com/imgs?q=tbn:ANd9GcRDVwJhxuB9udHsZO587_yBMPOZ7Q3SaDRhRU-AfuJUD6ToIwh6hqysQC8UP_oXl7HR2lk&usqp=CAU"
+  },
+  {
+    "name": "Cobblestone",
+    "description": "Durable cobblestone made from natural stone, commonly used for paving streets, driveways, and pathways. It provides a rustic and historic look.",
+    "price": 120,
+    "category": "Natural Stone",
+    "brand": "CobbleCraft",
+    "img": "https://5.imimg.com/data5/SELLER/Default/2022/10/QT/SW/IH/161763963/concrete-paver-block-500x500.jpeg"
+  },
+  {
+    "name": "Onyx Stone",
+    "description": "Luxurious natural onyx stone, used for high-end interior decor such as wall panels, countertops, and lighting features. Known for its translucency and unique color patterns.",
+    "price": 600,
+    "category": "Natural Stone",
+    "brand": "LuxStone",
+    "img": "https://5.imimg.com/data5/SELLER/Default/2023/6/321058613/YS/DI/JA/8089296/mango-onyx-marble-slab-1-500x500.jpg"
+  },
+  {
+    "name": "Basalt Stone",
+    "description": "Highly durable basalt stone, ideal for outdoor use in paving, cladding, and landscaping. Known for its dark color and weather resistance.",
+    "price": 220,
+    "category": "Natural Stone",
+    "brand": "BasaltIndia",
+    "img": "https://encrypted-tbn0.gstatic.com/imgs?q=tbn:ANd9GcRXDiurbnyNrqveBjqlo98GIzIUf3LRV_rM4eX8HsEuDi7ZVo_47l3zP6Y8YQePSHEQtPg&usqp=CAU"
+  },
+  {
+    "name": "Acrylic Emulsion Paint",
+    "description": "High-quality acrylic emulsion paint for interior walls, offering a smooth, matte finish. Provides excellent coverage and durability.",
+    "price": 300,
+    "category": "Paints and Finishes",
+    "brand": "Asian Paints",
+    "img": "https://5.imimg.com/data5/SELLER/Default/2023/7/324139116/YW/YI/LR/40974722/acrylic-emulsion-paint.jpg"
+  },
+  {
+    "name": "Oil-Based Enamel Paint",
+    "description": "Durable oil-based enamel paint ideal for doors, windows, and metal surfaces. Offers a glossy finish and is resistant to chipping and weathering.",
+    "price": 250,
+    "category": "Paints and Finishes",
+    "brand": "Nerolac",
+    "img": "https://5.imimg.com/data5/SELLER/Default/2023/10/351136539/XS/HA/GC/45962858/product-jpeg-500x500.jpg"
+  },
+  {
+    "name": "Exterior Emulsion Paint",
+    "description": "Weatherproof exterior emulsion paint designed to withstand harsh outdoor conditions. Provides UV protection and resists cracking and fading.",
+    "price": 400,
+    "category": "Paints and Finishes",
+    "brand": "Berger Paints",
+    "img": "https://5.imimg.com/data5/SELLER/Default/2021/8/EK/IH/VB/7793435/berger-weathercoat-all-guard-luxury-exterior-emulsion-20-ltr.jpg"
+  },
+  {
+    "name": "Textured Wall Paint",
+    "description": "Premium textured wall paint for interior walls, adding depth and dimension to your decor. Available in various patterns and finishes.",
+    "price": 700,
+    "category": "Paints and Finishes",
+    "brand": "Dulux",
+    "img": "https://images.ctfassets.net/1y9ubhyuohg0/2hA7jxD5YHlO4b23KV1Y5N/e566445961f31c42d4ea02909175e99f/DLX_ExTex_4L_PRIMER.png?fm=webp"
+  },
+  {
+    "name": "Wood Varnish",
+    "description": "Clear wood varnish offering a durable and glossy finish to wooden surfaces. Protects wood from moisture and UV damage while enhancing its natural color.",
+    "price": 450,
+    "category": "Paints and Finishes",
+    "brand": "Asian Paints",
+    "img": "https://5.imimg.com/data5/SELLER/Default/2022/9/QK/YR/RN/9483839/asian-paint-melamyne-glossy-woodfinish-varnish.jpeg"
+  },
+  {
+    "name": "Primer (Water-Based)",
+    "description": "Water-based primer for interior and exterior walls, providing a strong base for painting. Ensures better paint adhesion and long-lasting results.",
+    "price": 200,
+    "category": "Paints and Finishes",
+    "brand": "Indigo Paints",
+    "img": "https://5.imimg.com/data5/SELLER/Default/2021/7/KY/DB/NH/122545867/indigo-sealer-primer.jpg"
+  },
+  {
+    "name": "Polyurethane(PU) Finish",
+    "description": "High-gloss polyurethane (PU) finish for wood and metal surfaces, providing excellent scratch resistance and a luxurious appearance.",
+    "price": 600,
+    "category": "Paints and Finishes",
+    "brand": "Pidilite",
+    "img": "https://encrypted-tbn0.gstatic.com/imgs?q=tbn:ANd9GcQK1yQAH2dSlESBSXQ4ANlGsRIzNaKd8MqpIQ&s"
+  },
+  {
+    "name": "Cement Paint",
+    "description": "Durable cement-based paint for exterior surfaces like walls and concrete structures. Provides water resistance and is ideal for outdoor use.",
+    "price": 150,
+    "category": "Paints and Finishes",
+    "brand": "Snowcem",
+    "img": "https://5.imimg.com/data5/GP/YQ/MY-42339551/snowcem-cement-paint-500x500.jpg"
+  },
+  {
+    "name": "Distemper Paint",
+    "description": "Cost-effective distemper paint for interior walls, offering a matte finish. Suitable for low-traffic areas and budget-friendly painting projects.",
+    "price": 80,
+    "category": "Paints and Finishes",
+    "brand": "Shalimar Paints",
+    "img": "https://5.imimg.com/data5/SELLER/Default/2024/4/408508528/SR/ON/XJ/217939700/shalimar-distemper-500x500.webp"
+  },
+  {
+    "name": "Lacquer Finish",
+    "description": "Glossy lacquer finish for wood and furniture, providing a smooth and shiny surface. Quick-drying and resistant to scratches and water.",
+    "price": 500,
+    "category": "Paints and Finishes",
+    "brand": "Asian Paints",
+    "img": "https://5.imimg.com/data5/SELLER/Default/2022/10/YK/WH/SF/145576151/woodtech-pu-luxury-wood-finish-paint.jpg"
+  },
+  {
+    "name": "PVC Pipe (3/4 inch)",
+    "description": "Durable 3/4 inch PVC pipe for water supply systems. Lightweight and resistant to corrosion, ideal for both indoor and outdoor plumbing.",
+    "price": 40,
+    "category": "Plumbing",
+    "brand": "Finolex",
+    "img": "https://5.imimg.com/data5/SELLER/Default/2022/1/UD/CV/GC/59593836/pvc-pipes.jpg"
+  },
+  {
+    "name": "Brass Ball Valve",
+    "description": "High-quality brass ball valve for controlling water flow in plumbing systems. Suitable for residential and commercial applications.",
+    "price": 350,
+    "category": "Plumbing",
+    "brand": "Zoloto",
+    "img": "https://5.imimg.com/data5/SELLER/Default/2023/1/HF/ND/NI/3273658/brass-ball-valve.jpg"
+  },
+  {
+    "name": "CPVC Pipe (1 inch)",
+    "description": "Heat-resistant CPVC pipe for hot and cold water plumbing systems. Highly durable and designed to withstand higher temperatures.",
+    "price": 100,
+    "category": "Plumbing",
+    "brand": "Finolex",
+    "img": "https://5.imimg.com/data5/SELLER/Default/2020/9/YF/JP/WM/107158609/finolex-cpvc-pipes.jpg"
+  },
+  {
+    "name": "Bathroom Faucet",
+    "description": "Sleek chrome-plated bathroom faucet for sinks. Designed with a single lever for easy water temperature control.",
+    "price": 1500,
+    "category": "Plumbing",
+    "brand": "Jaquar",
+    "img": "https://5.imimg.com/data5/SELLER/Default/2023/3/EV/KK/PM/149771218/jaquar-bathroom-taps.jpg"
+  },
+  {
+    "name": "PVC Elbow Joint (90 Degree)",
+    "description": "Durable 90-degree PVC elbow joint for redirecting pipes in plumbing systems. Ideal for water supply lines and drainage systems.",
+    "price": 20,
+    "category": "Plumbing",
+    "brand": "Prince Pipes",
+    "img": "https://5.imimg.com/data5/SELLER/Default/2022/10/PA/PA/LV/46675332/pvc-elbow.jpg"
+  },
+  {
+    "name": "Stainless Steel Kitchen Sink",
+    "description": "Stainless steel kitchen sink with a smooth finish and sound-absorbing pads. Resistant to rust and corrosion.",
+    "price": 2000,
+    "category": "Plumbing",
+    "brand": "Carysil",
+    "img": "https://encrypted-tbn0.gstatic.com/imgs?q=tbn:ANd9GcQ05RwU8PmDzuQPAXEvxEpqo9efIEvWowIzg0SoXMibl-fQiOwi8SnXErbEpUR_CK8Mm_Y&usqp=CAU"
+  },
+  {
+    "name": "PPR Pipe (1/2 inch)",
+    "description": "Polypropylene Random (PPR) pipe for both hot and cold water plumbing systems. Offers high pressure and temperature resistance.",
+    "price": 60,
+    "category": "Plumbing",
+    "brand": "Supreme",
+    "img": "https://5.imimg.com/data5/MC/UK/GF/SELLER-2831564/ppr-pipe.jpg"
+  },
+  {
+    "name": "Hand Shower Set",
+    "description": "Hand shower set with adjustable spray patterns and anti-clog nozzles. Easy to install and maintain, providing a luxurious bathing experience.",
+    "price": 2200,
+    "category": "Plumbing",
+    "brand": "Hindware",
+    "img": "https://hindware.com/wp-content/uploads/2024/03/F160209CP.jpg"
+  },
+  {
+    "name": "UPVC Pipe (2 inch)",
+    "description": "Unplasticized PVC (UPVC) pipe for drainage and sewage systems. Resistant to chemicals and corrosion, suitable for waste disposal systems.",
+    "price": 150,
+    "category": "Plumbing",
+    "brand": "Ashirvad",
+    "img": "https://5.imimg.com/data5/SELLER/Default/2021/5/SR/KW/DZ/91686194/ashirvad-upvc-column-pipe.png"
+  },
+  {
+    "name": "Cast Iron Floor Drain",
+    "description": "Heavy-duty cast iron floor drain for effective water drainage in bathrooms and basements. Rust-resistant and durable.",
+    "price": 500,
+    "category": "Plumbing",
+    "brand": "Neer",
+    "img": "https://encrypted-tbn0.gstatic.com/imgs?q=tbn:ANd9GcSggnsopxx0eVXfnhVm87ACiYqU_iACcZ8qzw&s"
+  },
+  {
+    "name": "River Sand",
+    "description": "Fine river sand used for plastering and masonry work. Known for its smooth texture and consistent quality.",
+    "price": 1200,
+    "category": "Sand & Aggregates",
+    "brand": "SandMasters",
+    "img": "https://encrypted-tbn0.gstatic.com/imgs?q=tbn:ANd9GcSY8tqP8Occml2DsaOvJEiZjNQaHbBjQE_O3Q&s"
+  },
+  {
+    "name": "M-Sand (Manufactured Sand)",
+    "description": "Crushed stone sand, also known as M-Sand, used as a substitute for river sand in concrete production and brick laying. Offers good durability and strength.",
+    "price": 900,
+    "category": "Sand & Aggregates",
+    "brand": "RockSand",
+    "img": "https://5.imimg.com/data5/SELLER/Default/2023/3/293362696/PG/XY/OS/128532857/p-sand-unit-500x500.jpg"
+  },
+  {
+    "name": "Coarse Aggregate (20mm)",
+    "description": "20mm coarse aggregate used for concrete production, providing strength and durability to the mixture. Sourced from high-quality crushed stones.",
+    "price": 1400,
+    "category": "Sand & Aggregates",
+    "brand": "AggregateCo",
+    "img": "https://4.imimg.com/data4/RF/FJ/ANDROID-37732004/product.jpeg"
+  },
+  {
+    "name": "Fine Aggregate",
+    "description": "High-quality fine aggregate, suitable for producing high-grade concrete and mortar. Helps in achieving a smooth finish.",
+    "price": 1000,
+    "category": "Sand & Aggregates",
+    "brand": "FineBuild",
+    "img": "https://encrypted-tbn0.gstatic.com/imgs?q=tbn:ANd9GcS11e3Ph-6U8sxORw4eYq6cye-d3dHsvmaF1w&s"
+  },
+  {
+    "name": "Crushed Stone (40mm)",
+    "description": "40mm crushed stone aggregate used for road construction, driveways, and drainage applications. Known for its strength and load-bearing capacity.",
+    "price": 1200,
+    "category": "Sand & Aggregates",
+    "brand": "StoneCrush",
+    "img": "https://5.imimg.com/data5/SELLER/Default/2021/7/LU/DB/HD/13137782/40mm-crushed-stone-500x500.jpeg"
+  },
+  {
+    "name": "Gravel (10mm)",
+    "description": "10mm gravel commonly used for concrete mixes and as a decorative stone for landscaping projects. Provides good drainage properties.",
+    "price": 800,
+    "category": "Sand & Aggregates",
+    "brand": "GravelMaster",
+    "img": "https://5.imimg.com/data5/SELLER/Default/2022/4/PB/MB/ID/68578773/gravel-500x500.jpg"
+  },
+  {
+    "name": "Crushed Granite Aggregate",
+    "description": "High-quality crushed granite aggregate used for concrete, road construction, and as a base material for pavers and driveways.",
+    "price": 1500,
+    "category": "Sand & Aggregates",
+    "brand": "GraniteBuild",
+    "img": "https://encrypted-tbn0.gstatic.com/imgs?q=tbn:ANd9GcT86pTtXUUj_ms5lOZC9_8cfKMnpu9tnitRpg&s"
+  },
+  {
+    "name": "Limestone Aggregate",
+    "description": "Limestone aggregate used in road construction, concrete production, and landscaping projects. Known for its durability and natural appearance.",
+    "price": 1300,
+    "category": "Sand & Aggregates",
+    "brand": "LimeRock",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjbex1q-pLRnJMOerleqrDHb6oToDFEIVXJA&s"
+  },
+  {
+    "name": "Pea Gravel",
+    "description": "Small rounded pea gravel used in garden pathways, patios, and drainage systems. Provides a decorative touch and good drainage.",
+    "price": 900,
+    "category": "Sand & Aggregates",
+    "brand": "DecorStone",
+    "img": "https://encrypted-tbn0.gstatic.com/imgs?q=tbn:ANd9GcSfS0f2OJVfig2r2YoyazXSF_KR2VFnrchGeg&s"
+  },
+  {
+    "name": "Stone Dust",
+    "description": "Fine stone dust, a byproduct of crushed stones, used in construction as a filler material for leveling and compacting surfaces.",
+    "price": 700,
+    "category": "Sand & Aggregates",
+    "brand": "DustMaster",
+    "img": "https://5.imimg.com/data5/SELLER/Default/2022/5/VD/UX/GV/37326559/stone-dust.jpg"
+  },
+  {
+    "name": "Ceramic Wall Tile",
+    "description": "Glossy ceramic wall tiles designed for bathrooms and kitchens. Resistant to stains and easy to clean.",
+    "price": 40,
+    "category": "Tiles",
+    "brand": "Somany",
+    "img": "https://5.imimg.com/data5/SELLER/Default/2022/8/ZJ/NG/CC/147173319/wall-tiles.jpg"
+  },
+  {
+    "name": "Porcelain Floor Tile",
+    "description": "Durable porcelain tiles with a matte finish, suitable for high-traffic areas such as living rooms and hallways. Scratch and water-resistant.",
+    "price": 60,
+    "category": "Tiles",
+    "brand": "Kajaria",
+    "img": "https://cdn.prod.website-files.com/611e33de5446a74e18a9324c/6419f8ed14c757e094b277db_porcelain%20tiles%20pros%20and%20cons.webp"
+  },
+  {
+    "name": "Vitrified Tile",
+    "description": "Polished vitrified tiles ideal for both indoor and outdoor use. Known for its strength, low porosity, and shiny surface.",
+    "price": 75,
+    "category": "Tiles",
+    "brand": "Johnson Tiles",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrY8byAtr76COdHdTjVSSIFSGYA4Ujm_-Wdg&s"
+  },
+  {
+    "name": "Mosaic Tile",
+    "description": "Colorful mosaic tiles for decorative purposes, perfect for creating accent walls, borders, and splashbacks.",
+    "price": 150,
+    "category": "Tiles",
+    "brand": "Orientbell",
+    "img": "https://i.pinimg.com/736x/64/45/93/6445932a2d2b93ff203824c3acb98f09.jpg"
+  },
+  {
+    "name": "Glass Tile",
+    "description": "Glossy glass tiles for kitchen backsplashes and bathroom walls. Available in a variety of colors and finishes.",
+    "price": 200,
+    "category": "Tiles",
+    "brand": "H&R Johnson",
+    "img": "https://5.imimg.com/data5/KB/YG/UL/SELLER-3069650/glass-wall-tile.jpg"
+  },
+  {
+    "name": "Subway Tile",
+    "description": "Classic white subway tiles for modern and minimalistic interiors. Often used in kitchens and bathrooms for a clean look.",
+    "price": 35,
+    "category": "Tiles",
+    "brand": "Somany",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd4J12TihEGvydaeWBXJQQGPDwW9KLxcNA5Q&s"
+  },
+  {
+    "name": "Terracotta Tile",
+    "description": "Natural terracotta tiles, perfect for rustic interiors and exteriors. Known for their earthy tones and heat resistance.",
+    "price": 50,
+    "category": "Tiles",
+    "brand": "TerraTiles",
+    "img": "https://5.imimg.com/data5/SELLER/Default/2021/7/WG/OC/UN/11650809/terracotta-clay-floor-tiles.jpg"
+  },
+  {
+    "name": "Marble Tile",
+    "description": "Luxurious marble tiles for high-end interiors. Suitable for flooring and walls, offering a premium and elegant look.",
+    "price": 250,
+    "category": "Tiles",
+    "brand": "Classic Marble",
+    "img": "https://encrypted-tbn0.gstatic.com/imgs?q=tbn:ANd9GcR36v_THVcIrBobxuxwXqlhKOPegnrPGUBWCw&s"
+  },
+  {
+    "name": "Granite Tile",
+    "description": "Durable granite tiles for floors, countertops, and staircases. Resistant to scratches and perfect for heavy-use areas.",
+    "price": 180,
+    "category": "Tiles",
+    "brand": "GraniteEx",
+    "img": "https://5.imimg.com/data5/SELLER/Default/2023/9/346395009/AY/AO/WM/3243773/granite-tiles.jpeg"
+  },
+  {
+    "name": "Wooden Finish Tile",
+    "description": "Wooden finish porcelain tiles that mimic the look of natural wood. Perfect for adding warmth to living spaces without the maintenance of real wood.",
+    "price": 90,
+    "category": "Tiles",
+    "brand": "Kajaria",
+    "img": "https://5.imimg.com/data5/SM/UN/MY-19172176/wooden-finish-flooring-tile.jpg"
+  },
+  {
+    "name": "TMT Steel Bar (8mm)",
+    "description": "High-quality 8mm TMT steel bar used for small-scale construction projects. Offers excellent tensile strength and corrosion resistance.",
+    "price": 55,
+    "category": "TMT Steel Bars",
+    "brand": "TATA Tiscon",
+    "img": "https://5.imimg.com/data5/SELLER/Default/2023/5/311106157/XP/FM/PF/50316851/8mm-mild-steel-tmt-bar.jpg"
+  },
+  {
+    "name": "TMT Steel Bar (10mm)",
+    "description": "10mm TMT steel bar ideal for residential construction and reinforced concrete structures. Known for its flexibility and durability.",
+    "price": 53,
+    "category": "TMT Steel Bars",
+    "brand": "JSW Steel",
+    "img": "https://5.imimg.com/data5/SELLER/Default/2023/6/314252143/RA/JW/PT/190698366/10mm-mild-steel-tmt-bar.jpg"
+  },
+  {
+    "name": "TMT Steel Bar (12mm)",
+    "description": "12mm TMT steel bar used in multi-storey buildings and large infrastructure projects. Offers high strength-to-weight ratio.",
+    "price": 52,
+    "category": "TMT Steel Bars",
+    "brand": "SAIL",
+    "img": "https://5.imimg.com/data5/SELLER/Default/2023/7/326581673/UW/AY/VF/14793884/12mm-durgapur-tmt-bars-500x500.jpg"
+  },
+  {
+    "name": "TMT Steel Bar (16mm)",
+    "description": "Durable 16mm TMT steel bar, perfect for heavy-duty construction such as bridges, flyovers, and commercial buildings.",
+    "price": 51,
+    "category": "TMT Steel Bars",
+    "brand": "Kamdhenu",
+    "img": "https://5.imimg.com/data5/SELLER/Default/2023/1/PQ/QB/GT/37289067/16mm-iron-tmt-bar.jpg"
+  },
+  {
+    "name": "TMT Steel Bar (20mm)",
+    "description": "20mm TMT steel bar designed for large structural projects like dams and industrial buildings. Provides high tensile and yield strength.",
+    "price": 50,
+    "category": "TMT Steel Bars",
+    "brand": "Vizag Steel",
+    "img": "https://5.imimg.com/data5/SELLER/Default/2024/4/412790953/TN/ZS/KK/189845484/20-mm-shyam-steel-tmt-bars-500x500.jpg"
+  },
+  {
+    "name": "TMT Steel Bar (25mm)",
+    "description": "25mm TMT steel bar for high-rise constructions and heavy infrastructure projects. Offers superior load-bearing capacity and anti-corrosion properties.",
+    "price": 49,
+    "category": "TMT Steel Bars",
+    "brand": "Jindal Panther",
+    "img": "https://5.imimg.com/data5/SELLER/Default/2024/7/433062736/MH/DH/RO/129982873/25mm-tata-tiscon-mild-steel-tmt-bar.jpg"
+  },
+  {
+    "name": "TMT Steel Bar (32mm)",
+    "description": "Premium 32mm TMT steel bar, suitable for extremely large structures like bridges and heavy foundations. Provides maximum strength and flexibility.",
+    "price": 48,
+    "category": "TMT Steel Bars",
+    "brand": "Shyam Steel",
+    "img": "https://5.imimg.com/data5/SELLER/Default/2022/12/KS/IY/UO/141239442/32mm-mild-steel-tmt-bar.jpg"
+  },
+  {
+    "name": "TMT Steel Bar (40mm)",
+    "description": "40mm TMT steel bar used in massive infrastructure projects. Known for its ability to bear heavy loads and withstand seismic activity.",
+    "price": 47,
+    "category": "TMT Steel Bars",
+    "brand": "Electrosteel",
+    "img": "https://encrypted-tbn0.gstatic.com/imgs?q=tbn:ANd9GcQF-EnZ5pkZESGJR8AARNGKfANhFcCxZaU0lA&s"
+  },
+  {
+    "name": "Corrosion Resistant TMT Bar (12mm)",
+    "description": "12mm corrosion-resistant TMT bar ideal for marine and coastal construction projects, offering superior protection against rust and corrosion.",
+    "price": 60,
+    "category": "TMT Steel Bars",
+    "brand": "SRMB Steel",
+    "img": "https://tiimg.tistatic.com/fp/1/007/570/corrosion-resistant-high-strength-12-mm-tmt-bars-for-construction-grade-fe-500d-277.jpg"
+  },
+  {
+    "name": "Earthquake Resistant TMT Bar (16mm)",
+    "description": "16mm earthquake-resistant TMT bar designed to absorb seismic shocks, making it ideal for construction in earthquake-prone areas.",
+    "price": 58,
+    "category": "TMT Steel Bars",
+    "brand": "TATA Tiscon",
+    "img": "https://5.imimg.com/data5/SELLER/Default/2023/2/MX/PB/HH/67247900/16mm-mild-steel-tmt-bar-500x500.jpg"
+  },
+  {
+    "name": "Teak Wood Planks",
+    "description": "High-quality teak wood planks, ideal for furniture making and flooring. Known for its durability, resistance to decay, and fine grain.",
+    "price": 3500,
+    "category": "Wooden Products",
+    "brand": "GreenPly",
+    "img": "https://tiimg.tistatic.com/fp/1/007/624/long-lasting-high-strength-durable-strong-solid-brown-teak-wood-plank-246.jpg"
+  },
+  {
+    "name": "Plywood Sheet (19mm)",
+    "description": "19mm thick plywood sheet for use in furniture, cabinetry, and interior paneling. Made from layers of wood veneers bonded together with strong adhesives.",
+    "price": 70,
+    "category": "Wooden Products",
+    "brand": "CenturyPly",
+    "img": "https://cpimg.tistatic.com/05209821/b/4/extra-05209821.jpg"
+  },
+  {
+    "name": "MDF Board",
+    "description": "Medium-density fiberboard (MDF) used in furniture and decorative moldings. Smooth surface suitable for painting or veneering.",
+    "price": 50,
+    "category": "Wooden Products",
+    "brand": "Action TESA",
+    "img": "https://encrypted-tbn0.gstatic.com/imgs?q=tbn:ANd9GcRcKDk5tpGJNou_oZ75Dyv8FkDnO0pvTy0TFw&s"
+  },
+  {
+    "name": "Hardwood Veneer",
+    "description": "Natural hardwood veneer sheets used to create a wooden surface finish for furniture and cabinets. Offers a rich, authentic wooden texture.",
+    "price": 300,
+    "category": "Wooden Products",
+    "brand": "Timex Veneers",
+    "img": "https://encrypted-tbn0.gstatic.com/imgs?q=tbn:ANd9GcQOC1KQYwqDb9II3cfRKl0QQ2wOEBNAcd2UJw&s"
+  },
+  {
+    "name": "Walnut Wood Logs",
+    "description": "Premium walnut wood logs used for high-end furniture and interior decoration. Valued for its rich, dark color and grain pattern.",
+    "price": 4000,
+    "category": "Wooden Products",
+    "brand": "WoodCraft",
+    "img": "https://encrypted-tbn0.gstatic.com/imgs?q=tbn:ANd9GcQisC14jAtW2x4nCXRd9pN5HkNYbmhrlDC2Dw&s"
+  },
+  {
+    "name": "Bamboo Ply",
+    "description": "Eco-friendly bamboo ply sheets used in furniture, partitions, and decor. Known for its strength, sustainability, and natural aesthetics.",
+    "price": 120,
+    "category": "Wooden Products",
+    "brand": "Bamboo India",
+    "img": "https://encrypted-tbn0.gstatic.com/imgs?q=tbn:ANd9GcQWHamwH-pSY3adZ9eZZ6406TyqmVnUqgv8yw&s"
+  },
+  {
+    "name": "Oak Wood Planks",
+    "description": "Solid oak wood planks ideal for flooring, furniture, and joinery. Renowned for its hardness, grain pattern, and durability.",
+    "price": 2800,
+    "category": "Wooden Products",
+    "brand": "WoodWorld",
+    "img": "https://encrypted-tbn0.gstatic.com/imgs?q=tbn:ANd9GcQTSDNXEsEbARaOm2vFHT9vYZ8PLPlAwFDR7w&s"
+  },
+  {
+    "name": "Blockboard (25mm)",
+    "description": "25mm blockboard made from softwood core sandwiched between plywood layers. Commonly used in doors, shelves, and partitions.",
+    "price": 90,
+    "category": "Wooden Products",
+    "brand": "National Plywood",
+    "img": "https://5.imimg.com/data5/SELLER/Default/2023/2/ST/AU/ED/133693487/25mm-block-board.jpg"
+  },
+  {
+    "name": "Pine Wood",
+    "description": "Lightweight pine wood used for interior furniture, wall paneling, and flooring. Known for its affordability and easy workability.",
+    "price": 1500,
+    "category": "Wooden Products",
+    "brand": "TimberTech",
+    "img": "https://5.imimg.com/data5/SELLER/Default/2023/4/301482366/FY/AX/DJ/89990497/pine-wood-lumber.jpeg"
+  },
+  {
+    "name": "Engineered Wood Flooring",
+    "description": "Pre-finished engineered wood flooring with a top layer of natural wood veneer. Offers the beauty of wood with enhanced durability and stability.",
+    "price": 250,
+    "category": "Wooden Products",
+    "brand": "Pergo",
+    "img": "https://cdn.shopify.com/s/files/1/0418/4568/6426/files/Engineered_Wood_Flooring_Vs_Solid_Wood_Flooring.jpg?v=1648999315"
+  }
+]

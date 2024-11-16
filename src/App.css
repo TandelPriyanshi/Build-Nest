@@ -1,38 +1,117 @@
-.App {
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&family=Roboto:wght@400;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --primary-text-color: #183b56;
+  --secondry-text-color: #577592;
+  --accent-color: #2294ed;
+  --accent-dark-color: #1d69a3;
+  --padding-inline-section: 20px;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  color: var(--primary-text-color);
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.25rem;
+  color: var(--secondry-text-color);
+  line-height: 1.8rem;
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+}
+
+ul {
+  list-style: none;
+}
+
+/* utitlity class */
+
+.flex {
+  display: flex;
+  align-items: center;
+}
+
+.hover-link {
+  color: var(--primary-text-color);
+  transition: 0.2s ease-out;
+}
+
+.hover-link:hover {
+  color: var(--accent-color);
+  text-decoration: underline;
+}
+
+.space-between {
+  justify-content: space-between;
+}
+
+.small-bold-text {
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.head-primary-button {
+  background-color: var(--accent-color);
+  border-radius: 7px;
+  font-weight: 500px;
+  font-size: 1.2rem;
+  color: white !important;
+  padding: 12px 24px;
+  box-shadow: 0 0 2px var(--secondry-text-color);
+  transition: 0.2s ease-out;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.head-primary-button:hover {
+  background-color: var(--accent-dark-color);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.head-secondary-button {
+  border: 0.5px solid var(--secondry-text-color);
+  border-radius: 7px;
+  font-size: 1.2rem;
+  font-weight: 500px;
+  color: var(--primary-text-color) !important;
+  padding: 12px 24px;
+  transition: 2s ease-out;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.head-secondary-button:hover {
+  border-color: white;
+  color: white !important;
+} 
+
+/* term for sign in and sign up */
+.term {
+  font-size: 0.8rem;
+  color: var(--secondry-text-color);
+  margin-top: 10px;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.term a {
+  color: var(--accent-color);
+  text-decoration: underline;
 }

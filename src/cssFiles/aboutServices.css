@@ -1,0 +1,41 @@
+
+/* <---------------about us and service page --------------------->*/
+
+.about-us-container,
+.our-services-container {
+  padding: var(--padding-inline-section);
+  background-color: #ddd;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin: 20px;
+}
+
+.about-us-container h2,
+.our-services-container h2 {
+  color: var(--primary-text-color);
+  margin-bottom: 15px;
+}
+
+.about-us-container p,
+.our-services-container p {
+  color: var(--secondry-text-color);
+  line-height: 1.6;
+}
+
+.our-services-container ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.our-services-container li {
+  margin-bottom: 20px;
+}
+
+.our-services-container h3 {
+  color: var(--accent-color);
+  margin-bottom: 5px;
+}
+
+strong {
+  color: var(--accent-dark-color);
+}

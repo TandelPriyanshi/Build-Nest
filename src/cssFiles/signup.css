@@ -1,0 +1,100 @@
+/* --------------Sign Up CSS --------------*/
+
+.signup-body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('../assets/background-image.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .signup-container {
+    display: flex;
+    width: 70%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .signup-left {
+    flex: 1;
+    padding: 40px;
+    background-color: rgba(255, 255, 255, 0.8);
+  }
+
+  .social-icons {
+    margin-top: 20px;
+  }
+  
+  .social-icons a {
+    color: var(--primary-text-color);
+    margin-right: 15px;
+    font-size: 1.5rem;
+  }
+  
+  .signup-right {
+    flex: 1;
+    padding: 40px;
+    background-color: white;
+  }
+  
+  .signup-right h2 {
+    margin-bottom: 20px;
+  }
+  
+  .signup-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .signup-right input {
+    padding: 12px;
+    margin-bottom: 15px;
+    border: 1px solid var(--secondry-text-color);
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+  
+  .checkbox-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+  }
+  
+  .checkbox-container input {
+    margin-right: 10px;
+  }
+  
+  .primary-button {
+    background-color: var(--accent-color);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 12px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .primary-button:hover {
+    background-color: var(--accent-dark-color);
+  }
+  
+  .sign-in {
+    margin-top: 10px;
+    color: var(--secondry-text-color);
+    font-size: 0.9rem;
+  }
+  
+  .sign-in:hover {
+    color: var(--accent-color);
+    text-decoration: underline;
+  }
+  
+  .signup-right p {
+    font-size: 0.8rem;
+    color: var(--secondry-text-color);
+    margin-top: 10px;
+  }
